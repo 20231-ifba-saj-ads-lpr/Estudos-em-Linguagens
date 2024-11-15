@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "Estudos-em-Linguagens_b8071db0"
+    },
+    {
+      "type": "java",
+      "name": "He",
+      "request": "launch",
+      "mainClass": "He",
+      "projectName": "Estudos-em-Linguagens_b8071db0"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Estudos-em-Linguagens_b8071db0"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/root/meus-projetos/Estudos-em-Linguagens/Linguagens/Cursos/Domine as Estruturas de Dados mais Conhecidas",
+      "program": "/root/meus-projetos/Estudos-em-Linguagens/Linguagens/Cursos/Domine as Estruturas de Dados mais Conhecidas/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
