@@ -29,6 +29,11 @@ public class App {
        System.out.println(meuCarro.getAno());
        System.out.println(meuCarro.getCor());
 
+       System.out.println(meuCarro.getModelo());
+       System.out.println(meuCarro.getAno());
+       System.out.println(meuCarro.getCor());
+
+
 
     }
 }
