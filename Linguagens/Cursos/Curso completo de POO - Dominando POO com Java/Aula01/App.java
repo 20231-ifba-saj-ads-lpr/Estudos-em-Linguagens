@@ -44,3 +44,9 @@ public class App {
 
     }
 }
+
+/*
+ * Formas de Escrever: 
+ * Pasacalcase: MeuCachorro/NotaFiscal palavra composta, palavra unica: Cschorro
+ * CamelCase: Todo palavra comeca com letra minuscula, como se fosse um camelo 
+ */
