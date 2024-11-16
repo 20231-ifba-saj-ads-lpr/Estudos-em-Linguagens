@@ -6,6 +6,13 @@
       "name": "App",
       "request": "launch",
       "mainClass": "App",
+      "projectName": "Estudos-em-Linguagens_27ccc710"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
       "projectName": "Estudos-em-Linguagens_b8071db0"
     },
     {

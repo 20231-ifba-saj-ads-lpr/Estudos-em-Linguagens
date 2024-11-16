@@ -8,6 +8,19 @@ public class Carro {
     public String cor;
     //#endregion
 
+   ////#region Construtores
+    public Carro(){
+
+    }
+
+    public Carro(String moedelo, Integer ano,  String cor){
+        this.modelo = moedelo;
+        this.ano = ano; 
+        this.cor = cor; 
+
+    }
+   //#endregion
+
  
     //#region Getts e Setts 
 

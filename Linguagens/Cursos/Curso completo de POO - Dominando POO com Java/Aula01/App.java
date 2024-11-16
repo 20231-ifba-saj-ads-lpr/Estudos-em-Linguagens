@@ -33,6 +33,13 @@ public class App {
        System.out.println(meuCarro.getAno());
        System.out.println(meuCarro.getCor());
 
+       Carro novoCarro = new Carro ("Fiat uno", 2029, "Fiat");
+
+
+       System.out.println(novoCarro.getModelo());
+       System.out.println(novoCarro.getAno());
+       System.out.println(novoCarro.getCor());
+
 
 
     }
