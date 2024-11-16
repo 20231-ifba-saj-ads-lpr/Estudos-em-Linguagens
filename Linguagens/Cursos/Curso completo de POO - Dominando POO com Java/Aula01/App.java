@@ -5,28 +5,29 @@ public class App {
           
         // Que estou instanciando uma classe, construindo um objeto. 
         Pessoa pessoa1 = new Pessoa(); 
-        pessoa1.nome = "Fulano";
-        pessoa1.idade = 21;
+        pessoa1.setNome("fulano");
+        pessoa1.setIdade(21 );
 
-        System.out.println(pessoa1.nome);
-        System.out.println(pessoa1.idade);
+        System.out.println(pessoa1.getNome());
+        System.out.println(pessoa1.getIdade());
         
         Pessoa pessoa2 = new Pessoa(); 
-        pessoa2.nome = "Ciclano";
-        pessoa2.idade = 24; 
+        pessoa2.setNome("Maria"); 
+        pessoa2.setIdade(21); 
 
         
-        System.out.println(pessoa2.nome);
-        System.out.println(pessoa2.idade);
+        System.out.println(pessoa2.getNome());
+        System.out.println(pessoa2.getIdade());
       
-        Carro meuCarro = new Carro(); 
-        meuCarro.ano = 2021; 
-        meuCarro.modelo = "Jeep"; 
-        meuCarro.cor = "Preto"; 
+       Carro meuCarro = new Carro();
+       meuCarro.setModelo("Honda Civic");
+       meuCarro.setAno(2019);
+       meuCarro.setCor("Preto");
 
-        System.out.println(meuCarro.ano);
-        System.out.println(meuCarro.modelo);
-        System.out.println(meuCarro.cor);
+
+       System.out.println(meuCarro.getModelo());
+       System.out.println(meuCarro.getAno());
+       System.out.println(meuCarro.getCor());
 
 
     }

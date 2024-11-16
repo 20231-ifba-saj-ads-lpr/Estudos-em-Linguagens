@@ -1,11 +1,31 @@
 public class Pessoa {
-    public String nome; 
-    public  Integer idade; 
-    
+        // Atributos 
+    private String nome; 
+    private Integer idade; 
 
+
+    //Getters e Setters 
+    public void setNome(String nome){
+        // Aqui pode ter validacoes e outros.
+        this.nome = nome; 
+    }
     
-    
+    public String getNome(){
+        // 
+        return this.nome;
+        
+    }
+    public Integer getIdade(){
+        return this.idade; 
+
+    }
+
+    public void setIdade(Integer idade){
+        this.idade = idade;
+    }
 }
+
+
 /*
  * Metodos Acesseores:
  * 
@@ -14,6 +34,8 @@ public class Pessoa {
  * protecte: Indica que somente a classe  e seus filhos conseguem acessar 
  * default: Indica que somente  classe  no mesmo pachet 
  * 
- * 
- * 
  */
+
+ /*
+  Getters e Steters 
+  */
