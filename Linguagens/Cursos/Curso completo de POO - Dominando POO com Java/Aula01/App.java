@@ -2,6 +2,7 @@ public class App {
 
     public static void main(String[] args) {
         System.err.println("Aprendendo POO com Java ");
+        Byte tipoByte
           
         // Que estou instanciando uma classe, construindo um objeto. 
         Pessoa pessoa1 = new Pessoa(); 
@@ -49,4 +50,6 @@ public class App {
  * Formas de Escrever: 
  * Pasacalcase: MeuCachorro/NotaFiscal palavra composta, palavra unica: Cschorro
  * CamelCase: Todo palavra comeca com letra minuscula, como se fosse um camelo 
+ * Kibab-case: mnota-fiscal
+ * snake_case: nota_fiscal
  */

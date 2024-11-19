@@ -28,7 +28,7 @@ public class Pessoa {
 
 /*
  * Metodos Acesseores:
- * 
+ * eu 
  * public: Indicar que qualquer um pode acessar  
  * private: Imdica que somente a classe conseque acessar 
  * protecte: Indica que somente a classe  e seus filhos conseguem acessar 
