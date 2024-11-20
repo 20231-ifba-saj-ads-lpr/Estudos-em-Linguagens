@@ -2,9 +2,18 @@ public class App {
 
     public static void main(String[] args) {
         System.err.println("Aprendendo POO com Java ");
-        Byte tipoByte
+
+        byte = 100;
+        short = 30000;
+        int = 2000000000;
+        long =  9000000000000000000;
+        float = 3.14;
+        double = 2.71828;
+        boolean = true;
+        char =  A; 
+
           
-        // Que estou instanciando uma classe, construindo um objeto. 
+        // Aqui estou instanciando uma classe, construindo um objeto. 
         Pessoa pessoa1 = new Pessoa(); 
         pessoa1.setNome("fulano");
         pessoa1.setIdade(21 );
