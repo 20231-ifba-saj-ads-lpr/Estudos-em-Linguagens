@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PrimeiroPrograma",
+      "request": "launch",
+      "mainClass": "PrimeiroPrograma",
+      "projectName": "Estudos-em-Linguagens_27ccc710"
+    },
+    {
+      "type": "java",
       "name": "App",
       "request": "launch",
       "mainClass": "App",
