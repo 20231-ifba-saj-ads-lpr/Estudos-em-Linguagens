@@ -14,7 +14,10 @@ aconteceu.
 
 5) Faça um programa que leia um valor do tipo float e depois o imprima usando o operador “%d”. Veja o que
 aconteceu.
-
+  dsdadsadas  
+  dasdasdasdasd
+  dasdadsasdsad
+  dasadasdasd
 6) Faça um programa que leia um valor do tipo double e depois o imprima na forma de notação científica.
 
 7) Elabore um programa que leia um caractere e depois o imprima como um valor inteiro.
