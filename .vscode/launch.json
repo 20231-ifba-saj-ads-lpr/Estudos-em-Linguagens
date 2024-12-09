@@ -50,8 +50,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/root/meus-projetos/Estudos-em-Linguagens/Linguagens/Cursos/Domine as Estruturas de Dados mais Conhecidas",
-      "program": "/root/meus-projetos/Estudos-em-Linguagens/Linguagens/Cursos/Domine as Estruturas de Dados mais Conhecidas/build/Debug/outDebug",
+      "cwd": "/root/meus_repos/Estudos-em-Linguagens/linguagens/cursos/C - Lógica e Estrutura de Dados/Domine as Estruturas de Dados mais Conhecidas",
+      "program": "/root/meus_repos/Estudos-em-Linguagens/linguagens/cursos/C - Lógica e Estrutura de Dados/Domine as Estruturas de Dados mais Conhecidas/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

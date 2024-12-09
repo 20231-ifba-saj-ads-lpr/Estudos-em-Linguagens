@@ -48,6 +48,8 @@ public class App {
 
        System.out.println(novoCarro.getModelo());
        System.out.println(novoCarro.getAno());
+
+       System.out.println("Teste");
        System.out.println(novoCarro.getCor());
 
 
@@ -56,7 +58,7 @@ public class App {
 }
 
 /*
- * Formas de Escrever: 
+ * Formas de Escrever: ;
  * Pasacalcase: MeuCachorro/NotaFiscal palavra composta, palavra unica: Cschorro
  * CamelCase: Todo palavra comeca com letra minuscula, como se fosse um camelo 
  * Kibab-case: mnota-fiscal
