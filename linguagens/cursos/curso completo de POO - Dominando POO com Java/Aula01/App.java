@@ -48,6 +48,8 @@ public class App {
 
        System.out.println(novoCarro.getModelo());
        System.out.println(novoCarro.getAno());
+
+       System.out.println("Teste")
        System.out.println(novoCarro.getCor());
 
 
