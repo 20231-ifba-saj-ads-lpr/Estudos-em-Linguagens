@@ -56,5 +56,9 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "java.debug.settings.onBuildFailureProceed": true
+  "java.debug.settings.onBuildFailureProceed": true,
+  "java.project.sourcePaths": [
+    "linguagens/cursos/java.poo/doZeroaoProfissionalProjetos/src/fundamentos",
+    "linguagens/cursos/java.poo/doZeroaoProfissionalProjetos/exercicos/fundamentos"
+  ]
 }
