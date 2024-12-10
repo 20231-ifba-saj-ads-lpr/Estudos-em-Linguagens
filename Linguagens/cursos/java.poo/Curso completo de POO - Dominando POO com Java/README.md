@@ -13,7 +13,7 @@ Por que usar getters e setters?
     Setter: Um método setter atribui um novo valor a um atributo privado. Seu nome geralmente começa com "set" seguido do nome do atributo.
 
 
-    ## Construtores em Java: Uma Explicação Completa
+ ## Construtores em Java: Uma Explicação Completa
 
 **O que são construtores?**
 
@@ -23,9 +23,11 @@ A principal função de um construtor é inicializar os atributos (variáveis de
 
 **Por que usar construtores?**
 
-* **Inicialização consistente:** Assegura que todos os objetos de uma classe sejam inicializados da mesma forma.
-* **Flexibilidade:** Permite criar objetos com diferentes valores iniciais, dependendo dos argumentos passados ao construtor.
-* **Encapsulamento:** Esconde a lógica de criação de objetos, tornando o código mais organizado e fácil de manter.
+**Inicialização consistente:** Assegura que todos os objetos de uma classe sejam inicializados da mesma forma.
+
+**Flexibilidade:** Permite criar objetos com diferentes valores iniciais, dependendo dos argumentos passados ao construtor.
+
+**Encapsulamento:** Esconde a lógica de criação de objetos, tornando o código mais organizado e fácil de manter.
 
 **Como criar um construtor?**
 
@@ -50,9 +52,9 @@ public class Carro {
 
 **Tipos de construtores:**
 
-* **Construtor padrão:** É criado automaticamente pelo compilador se você não definir nenhum construtor explicitamente. Ele não recebe nenhum parâmetro e geralmente inicializa os atributos com valores padrão.
-* **Construtor parametrizado:** Recebe um ou mais parâmetros, permitindo que você personalize a inicialização do objeto.
-* **Construtor de cópia:** Cria um novo objeto que é uma cópia exata de um objeto existente.
+**Construtor padrão:** É criado automaticamente pelo compilador se você não definir nenhum construtor explicitamente. Ele não recebe nenhum parâmetro e geralmente inicializa os atributos com valores padrão.
+**Construtor parametrizado:** Recebe um ou mais parâmetros, permitindo que você personalize a inicialização do objeto.
+**Construtor de cópia:** Cria um novo objeto que é uma cópia exata de um objeto existente.
 
 **Sobrecarga de construtores:**
 
@@ -87,32 +89,38 @@ Construtores são ferramentas essenciais em Java para garantir que os objetos se
 **PascalCase e CamelCase** são convenções de nomenclatura amplamente utilizadas em programação para tornar o código mais legível e consistente. A principal diferença entre elas reside na capitalização das letras iniciais de cada palavra em um identificador (nome de variável, função, classe, etc.).
 
 ### PascalCase
-* **Capitaliza a primeira letra de cada palavra.**
-* **Utilizado principalmente para:**
+
+**Capitaliza a primeira letra de cada palavra.**
+**Utilizado principalmente para:**
     * Nomes de classes
     * Nomes de interfaces
     * Nomes de enums
     * Nomes de tipos
-* **Exemplo:** `MinhaClasse`, `InterfaceUsuario`, `CorDoOlho`
+**Exemplo:** `MinhaClasse`, `InterfaceUsuario`, `CorDoOlho`
 
 ### CamelCase
-* **Capitaliza a primeira letra de cada palavra, exceto a primeira.**
-* **Utilizado principalmente para:**
+
+**Capitaliza a primeira letra de cada palavra, exceto a primeira.**
+**Utilizado principalmente para:**
     * Nomes de métodos
     * Nomes de variáveis
     * Nomes de atributos
-* **Exemplo:** `minhaVariavel`, `calcularArea`, `primeiroNome`
+
+**Exemplo:** `minhaVariavel`, `calcularArea`, `primeiroNome`
 
 ### Por que usar essas convenções?
-* **Melhora a legibilidade:** Ao seguir uma convenção consistente, o código fica mais fácil de entender, especialmente em projetos maiores.
-* **Facilita a manutenção:** Códigos bem nomeados são mais simples de modificar e depurar.
-* **Adere a padrões de codificação:** Muitas linguagens e frameworks possuem guidelines específicas sobre nomenclatura, e seguir essas convenções garante a qualidade do código.
+
+**Melhora a legibilidade:** Ao seguir uma convenção consistente, o código fica mais fácil de entender, especialmente em projetos maiores.
+
+**Facilita a manutenção:** Códigos bem nomeados são mais simples de modificar e depurar.
+
+**Adere a padrões de codificação:** Muitas linguagens e frameworks possuem guidelines específicas sobre nomenclatura, e seguir essas convenções garante a qualidade do código.
 
 ### Quando usar cada uma?
 A escolha entre PascalCase e CamelCase geralmente depende do tipo de elemento que você está nomeando. No entanto, existem algumas diretrizes gerais:
 
-* **Nomes de tipos (classes, interfaces, enums):** PascalCase
-* **Nomes de membros (métodos, atributos, variáveis):** CamelCase
+**Nomes de tipos (classes, interfaces, enums):** PascalCase
+**Nomes de membros (métodos, atributos, variáveis):** CamelCase
 
 **Exemplo em Java:**
 
