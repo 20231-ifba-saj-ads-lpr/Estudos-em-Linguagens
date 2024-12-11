@@ -3,14 +3,17 @@ public class App {
     public static void main(String[] args) {
         System.err.println("Aprendendo POO com Java ");
 
-        byte = 100;
-        short = 30000;
-        int = 2000000000;
-        long =  9000000000000000000;
-        float = 3.14;
-        double = 2.71828;
-        boolean = true;
-        char =  A; 
+        byte TipoByte = Byte.MAX_VALUE;  //127
+        short TipoShort = Short.MIN_VALUE; //
+        int TipoInt = 43;
+        long TipoLong =  9223372036854775807L; // todo número long tem qu etermna  com L no gial exemplo: 2313L
+        float  TipoFloat = 2.8F; //Todos número float tem que terminar em F
+        double  TipoDouble = Double.MAX_VALUE;
+        boolean  TipoBoolean = true;
+        
+        String TipoString = "Seu um texto";
+        char TipoChar = 'S';
+    
 
           
         // Aqui estou instanciando uma classe, construindo um objeto. 

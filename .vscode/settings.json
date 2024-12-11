@@ -59,6 +59,8 @@
   "java.debug.settings.onBuildFailureProceed": true,
   "java.project.sourcePaths": [
     "linguagens/cursos/java.poo/doZeroaoProfissionalProjetos/src/fundamentos",
-    "linguagens/cursos/java.poo/doZeroaoProfissionalProjetos/exercicos/fundamentos"
+    "Linguagens/cursos/java.poo/Curso completo de POO - Dominando POO com Java/aula02/src/model",
+    "Linguagens/cursos/java.poo/Curso completo de POO - Dominando POO com Java/Aula01",
+    "Linguagens/cursos/java.poo/Curso completo de POO - Dominando POO com Java/aula02/src"
   ]
 }
