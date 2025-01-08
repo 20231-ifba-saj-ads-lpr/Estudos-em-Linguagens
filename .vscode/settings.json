@@ -28,8 +28,6 @@
   "C_Cpp_Runner.useUndefinedSanitizer": false,
   "java.debug.settings.onBuildFailureProceed": true,
   "java.project.sourcePaths": [
-    "Linguagens/cursos/java.poo/doZeroaoProfissionalProjetos/src/fundamentos",
-    "Linguagens/cursos/java.poo/Curso completo de POO - Dominando POO com Java/aula02/src/model",
-    "Linguagens/cursos/java.poo/Curso completo de POO - Dominando POO com Java/aula02/src"
+    "Linguagens/Cursos/JAVA/Curso completo de POO - Dominando POO com Java/Aula01"
   ]
 }
