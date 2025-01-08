@@ -6,10 +6,11 @@ public class App {
         byte TipoByte = Byte.MAX_VALUE;  //127
         short TipoShort = Short.MIN_VALUE; //
         int TipoInt = 43;
-        long TipoLong =  9223372036854775807L; // todo número long tem qu etermna  com L no gial exemplo: 2313L
+        long TipoLong =  9223372036854775807L; // todo número long tem que terminar  com L no gial exemplo: 2313L
         float  TipoFloat = 2.8F; //Todos número float tem que terminar em F
         double  TipoDouble = Double.MAX_VALUE;
         boolean  TipoBoolean = true;
+        float peso = (float) 90.54;  // Existe no JAVA, um processo chamado: "TRucar", que é trocar o tipo de por outro, ou seja, convertado
         
         String TipoString = "Seu um texto";
         char TipoChar = 'S';
